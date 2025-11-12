@@ -1,0 +1,15 @@
+employee mangement:
+
+1) install packages:
+    npm create vite@latest
+    project name 
+    javascript
+    npm install
+2) npm install react-data-table-component styled-components axios react-icons react-router-dom tailwindcss postcss autoprefixer
+3) tailwind configuration
+4) create a server 
+    npm init -y
+    npm install bcrypt cors express jsonwebtoken mongoose multer nodemon path
+    create index.js
+    type = "module"
+    start = nodemon --env-file=.env index.js  
